@@ -8,7 +8,7 @@ This app loads hotel and booking data from JSON files and supports two commands 
 How to Run
 
 1. Clone or download the repository
-git clone https://github.com/yourusername/BookingApp.git
+git clone https://github.com/nedelko/BookingApp.git
 cd BookingApp/BookingApp
 
 2. Run with .NET CLI
